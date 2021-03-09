@@ -1,0 +1,114 @@
+[
+    {
+        "name": "soberania Marshal",
+        "id": 6.789442,
+        "description": "Arma Amada Por todos",
+        "value": "15",
+        "set": "Soberania",
+        "img": "soberania_Marshal.png"
+    },
+    {
+        "name": "soberania Guardian",
+        "id": 6.489,
+        "description": "Arma Amada Por todos",
+        "value": "15",
+        "set": "Soberania",
+        "img": "soberania_Guardian.png"
+    },
+    {
+        "name": "soberania Ghost",
+        "id": 6.9877777445,
+        "description": "Arma Amada Por todos",
+        "value": "15",
+        "set": "Soberania",
+        "img": "soberania_Ghost.png"
+    },
+    {
+        "name": "Saqueador_Faca",
+        "id": 60.56,
+        "description": "Arma Amada Por todos",
+        "value": 100,
+        "set": "Saqueador",
+        "img": "Saqueador_Faca.png"
+    },
+    {
+        "name": "Sublime Machado",
+        "id": 5.25,
+        "description": "Arma Amada Por todos",
+        "value": 99.99,
+        "set": "Sublime",
+        "img": "Sublime_Machado.png"
+    },
+    {
+        "name": "Sublime Guardian",
+        "id": 42.994,
+        "description": "Arma Amada Por todos",
+        "value": 15,
+        "set": "Sublime",
+        "img": "Sublime_Guardian.png"
+    },
+    {
+        "name": "sublibe_classic",
+        "id": 50,
+        "description": "Arma Amada Por todos",
+        "value": 15,
+        "set": "Sublime",
+        "img": "sublibe_classic.png"
+    },
+    {
+        "name": "soberania_Stringer",
+        "id": 67,
+        "description": "Arma Amada Por todos",
+        "value": 15,
+        "set": "Soberania",
+        "img": "soberania_Stringer.png"
+    },
+    {
+        "name": "soberania_Marshal",
+        "id": 68.9988,
+        "description": "Arma Amada Por todos",
+        "value": 15,
+        "set": "Soberania",
+        "img": "soberania_Marshal.png"
+    },
+    {
+        "name": "soberania_Guardian",
+        "id": 662.78,
+        "description": "Arma Amada Por todos",
+        "value": 15,
+        "set": "Soberania",
+        "img": "soberania_Guardian.png"
+    },
+    {
+        "name": "Saqueador_Faca",
+        "id": 6904,
+        "description": "Arma Amada Por todos",
+        "value": 100,
+        "set": "Saqueador",
+        "img": "Saqueador_Faca.png"
+    },
+    {
+        "name": "Zero two",
+        "value": "100",
+        "set": "Anime girl ",
+        "description": "Anime : Darling in the Franxx",
+        "id": 50.14419695137957,
+        "img": "zerotwok.png"
+    },
+    {
+        "name": "Felix S2",
+        "value": "10000",
+        "set": "Trap",
+        "description": "Se tu nao ver dublado tu cai na trap",
+        "id": 96.43333756242912,
+        "img": "28.382574309302022-icons8-delete-32.png"
+    },
+    {
+        "name": "Pacote Sublime 2.0",
+        "value": "30000",
+        "set": "Sublime",
+        "description": "pacote sublime 2.0",
+        "id": 85.8650140187564,
+        "img": "32.54058513461544-EvZilJFWgAUtxnn.jpg"
+    }
+]
